@@ -16,3 +16,11 @@ This repository features a production-ready data pipeline that automates busines
 ### About the Developer:
 * Currently a student at **University of Dhaka**.
 * AI Subject Matter Expert & Data Analyst with a focus on business efficiency.
+* 
+---
+
+### 📱 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-maher-ashrafi-288a493a1) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdmaherashrafi@gmail.com)
+
+**📞 Phone:** [+8801873102736](tel:+8801873102736)
