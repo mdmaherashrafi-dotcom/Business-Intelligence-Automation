@@ -43,11 +43,6 @@ I designed this pipeline to focus on operational efficiency. By using this syste
 
 ---
 
-## Project Visuals
-*(Note: Visual dashboard is generated automatically. Screenshots will be added soon.)*
-
----
-
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-maher-ashrafi-288a493a1) 
