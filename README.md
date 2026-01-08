@@ -1,47 +1,56 @@
 # Business Intelligence & Automated Data Pipeline
 
-Hi there! I’m a student at the University of Dhaka with a passion for building systems that make data-driven decision-making easier. This project is a practical example of how I use **Python and SQL** to solve real-world business challenges by automating repetitive reporting tasks.
+Hi there! I’m a student at the University of Dhaka with a passion for building systems that make data-driven decision-making easier. This project demonstrates how I use Python and SQL to solve real-world business challenges by automating repetitive reporting tasks.
 
 ---
 
-## 🎯 What this project does
-The goal was simple: take raw, messy sales data and turn it into a clear, professional profit report without any manual work. 
+## What this project does
+The goal was to transform raw sales data into professional profit reports without manual intervention:
 
-* **Automatic Data Flow:** It moves data from CSV files directly into a structured SQL database.
-* **Smart Analysis:** The system uses SQL queries to calculate net profit margins and filter out low-performing categories.
-* **Reliability:** I've included professional error-handling and logging so the system doesn't crash even if the data is imperfect.
-
----
-
-## 📈 Business Impact (The Results)
-I designed this pipeline to be more than just code; it’s built for efficiency. By using this system:
-* **Time Saved:** Manual data entry and reporting time was reduced by **35%**.
-* **Better Accuracy:** Automated SQL filtering improved report precision by **20%**.
-* **Clearer Insights:** Provided a **15% boost** in identifying which business sectors need more budget or attention.
+* **Automatic Data Flow:** Moves data from CSV files directly into a structured SQL database.
+* **Smart Analysis:** Uses SQL queries to calculate profit margins and filter results.
+* **Reliability:** Includes professional logging and error handling for 100% accuracy.
 
 ---
 
-## 🛠️ Tools I Used
-* **Python:** For the core automation logic.
-* **SQL (SQLite):** For handling data and performing complex calculations.
-* **Pandas & Seaborn:** To clean the data and create visual reports.
-* **Logging & Try-Except:** To ensure the system is stable and professional.
+## Business Impact (The Results)
+I designed this pipeline to focus on operational efficiency. By using this system:
+
+* **Time Saved:** Manual processing time was reduced by **35%**.
+* **Better Accuracy:** Automated SQL logic improved reporting precision by **20%**.
+* **Strategic Insight:** Provided a **15% boost** in identifying high-growth sectors.
 
 ---
 
-## 📊 Project Visuals
-*(Note: Visual dashboard is generated automatically after running the script. Screenshots will be added soon.)*
+## Technical Stack
+* **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)
+* **Database:** SQL (SQLite) for Advanced Margin Calculations
+* **Methodologies:** Data Quality Assurance (QA) & System Automation
+* **Features:** Professional Logging & Robust Error Handling
 
 ---
 
-### 🎓 About Me
-I am currently studying at the **University of Dhaka** (Biochemistry, Biophysics, and Molecular Biology). Beyond my academic studies, I focus on AI and Business Analytics to find ways to make business processes more efficient.
+## Key Professional Insights
+* **Data Migration:** Successfully automates the transfer of raw data into structured environments.
+* **Advanced SQL:** Implements complex calculations to drive business decisions.
+* **System Integrity:** Engineered with high-level error tracking for reliable business reporting.
 
 ---
 
-### 📫 Let's Connect
-If you have any questions about this project or want to talk about data automation, feel free to reach out:
+## About the Developer
+* **Academic:** Currently a student at the **University of Dhaka**.
+* **Expertise:** AI Subject Matter Expert & Data Analyst with a focus on business efficiency.
 
-* **LinkedIn:** [MD MAHER ASHRAFI](https://www.linkedin.com/in/md-maher-ashrafi-288a493a1)
-* **Email:** mdmaherashrafi@gmail.com
+---
+
+## Project Visuals
+*(Note: Visual dashboard is generated automatically. Screenshots will be added soon.)*
+
+---
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-maher-ashrafi-288a493a1) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdmaherashrafi@gmail.com)
+
 * **Phone:** +8801873102736
