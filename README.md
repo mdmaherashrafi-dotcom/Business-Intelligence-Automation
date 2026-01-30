@@ -43,6 +43,19 @@ I designed this pipeline to focus on operational efficiency. By using this syste
 
 ---
 
+## Business Impact (The Results)
+![Business Impact](1000064469.png)
+
+---
+
+## Technical Stack
+![Technical Stack](1000064471.png)
+
+---
+
+## Key Professional Insights
+![Key Professional Insights](1000064472.png)
+
 
 ## Connect with Me
 
