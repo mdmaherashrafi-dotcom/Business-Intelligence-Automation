@@ -42,14 +42,6 @@ I designed this pipeline to focus on operational efficiency. By using this syste
 * **Expertise:** AI Subject Matter Expert & Data Analyst with a focus on business efficiency.
 
 ---
-gantt
-    title Business Impact Analysis (%)
-    dateFormat  X
-    axisFormat  %s
-    
-    Time Saved (35%)           :active, 0, 35
-    Reporting Precision (20%)  :done, 0, 20
-    Strategic Insight (15%)    :crit, 0, 15
 
 
 ## Connect with Me
