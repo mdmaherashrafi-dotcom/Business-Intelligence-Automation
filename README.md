@@ -56,9 +56,10 @@ I designed this pipeline to focus on operational efficiency. By using this syste
 ## Key Professional Insights
 ![Key Professional Insights](https://github.com/mdmaherashrafi-dotcom/Business-Intelligence-Automation/blob/main/1769763010286%20(1).png?raw=true)
 
+
 ## Installation & Usage Guide
 
-To replicate the performance analysis and run the SQL-Python engine locally, follow these professional steps:
+To replicate the performance analysis and run the SQL-Python engine locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
