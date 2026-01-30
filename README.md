@@ -56,10 +56,21 @@ I designed this pipeline to focus on operational efficiency. By using this syste
 ## Key Professional Insights
 ![Key Professional Insights](https://github.com/mdmaherashrafi-dotcom/Business-Intelligence-Automation/blob/main/1769763010286%20(1).png?raw=true)
 
+## Installation & Usage Guide
+
+To replicate the performance analysis and run the SQL-Python engine locally, follow these professional steps:
+
+1. **Clone the Repository:**
+   ```bash
+   git clone [https://github.com/mdmaherashrafi-dotcom/Business-Intelligence-Automation.git](https://github.com/mdmaherashrafi-dotcom/Business-Intelligence-Automation.git)
+
+
 
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-maher-ashrafi-288a493a1) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdmaherashrafi@gmail.com)
+
+
 
 * **Phone:** +8801873102736
