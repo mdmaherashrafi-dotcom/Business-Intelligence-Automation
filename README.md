@@ -44,17 +44,17 @@ I designed this pipeline to focus on operational efficiency. By using this syste
 ---
 
 ## Business Impact (The Results)
-![Business Impact](1769763010286 (4).png)
+![Business Impact](https://github.com/mdmaherashrafi-dotcom/Business-Intelligence-Automation/blob/main/1769763010286%20(4).png?raw=true)
 
 ---
 
 ## Technical Stack
-![Technical Stack](1769763010286 (3).png)
+![Technical Stack](https://github.com/mdmaherashrafi-dotcom/Business-Intelligence-Automation/blob/main/1769763010286%20(3).png?raw=true)
 
 ---
 
 ## Key Professional Insights
-![Key Professional Insights](1769763010286 (1).png)
+![Key Professional Insights](https://github.com/mdmaherashrafi-dotcom/Business-Intelligence-Automation/blob/main/1769763010286%20(1).png?raw=true)
 
 
 ## Connect with Me
